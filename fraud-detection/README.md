@@ -22,8 +22,8 @@ The analysis includes data exploration, feature engineering, multicollinearity c
 - **By Amount Segmentation:**  
   Examined transaction amount distributions (log-transformed for normalization) and their relationship with fraud likelihood.
 - **By Time Trend:**  
-  Investigated fraud occurrence patterns over time and by hour of day.
-
+  Analyzed the evolution of total and fraudulent transactions over time.
+  Identified patterns in transaction frequency by hour of day and examined balance differences (origin/destination) over time.
 ### 3. Feature Importance
 - **Statistical Tests:**  
   Conducted T-tests and Chi-squared tests to determine statistically significant features.
@@ -51,6 +51,9 @@ The analysis includes data exploration, feature engineering, multicollinearity c
 <img src="./images/boxplot_transaction_amount.png" width="48%"> <img src="./images/amount_distribution_log_transformed.png" width="48%">
 
 ### Balance & Time Trends
+<img src="./images/transactions_frauds_over_time.png" width="48%"> <img src="./images/total_vs_fraud_transactions_subplots.png" width="48%">
+<img src="./images/balance_diff_origin_over_time.png" width="48%"> <img src="./images/balance_diff_dest_over_time.png" width="48%">
+<img src="./images/fraud_spikes_by_hour.png" width="48%"> <img src="./images/hourly_distribution_transactions.png" width="48%">
 <img src="./images/balance_diff_dest_boxplot.png" width="48%"> <img src="./images/balance_diff_dest_distribution.png" width="48%">
 <img src="./images/transactions_frauds_over_time.png" width="48%"> <img src="./images/fraud_spikes_by_hour.png" width="48%">
 
