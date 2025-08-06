@@ -37,10 +37,19 @@ The analysis includes data exploration, feature engineering, multicollinearity c
 
 ---
 
-## Next Steps
-- Implement advanced machine learning models (e.g., XGBoost, Gradient Boosting).  
-- Address class imbalance with oversampling/undersampling techniques (SMOTE, etc.).  
-- Build an API or dashboard for real-time fraud detection.  
+## Key Visualizations
+
+### Transaction Amounts
+<img src="./images/amount_distribution_transfer.png" width="48%"> <img src="./images/amount_distribution_cashout.png" width="48%">
+
+### Balance Differences
+<img src="./images/balance_diff_dest_boxplot.png" width="48%"> <img src="./images/balance_diff_dest_distribution.png" width="48%">
+
+### Feature Analysis
+<img src="./images/feature_correlation_isfraud.png" width="48%"> <img src="./images/feature_significance_tests.png" width="48%">
+
+### Model Performance
+<img src="./images/confusion_matrix.png" width="48%"> <img src="./images/transactions_scatter_scaled.png" width="48%">
 
 ---
 
