@@ -8,6 +8,8 @@ This portfolio highlights case-based analytics projects spanning predictive mode
 ## **📁 Featured Projects**
 
 ### 🔍 [Fraud Detection Analysis](./fraud-detection)
+<img src="fraud-detection/images/total_vs_fraud_transactions_subplots.png" width="620">
+
 Built a Random Forest model to detect fraudulent transactions using EDA, imbalance-aware evaluation, and explainability.  
 **Results (test):** Accuracy **1.00**, Precision(1) **0.98**, Recall(1) **0.78**, F1(1) **0.87**  
 **Tools:** Python (Pandas, Scikit-learn, Seaborn, Matplotlib)  
@@ -16,6 +18,8 @@ Built a Random Forest model to detect fraudulent transactions using EDA, imbalan
 ---
 
 ### 🛍️ [Customer Segmentation & CLTV Prediction](./crm-analysis)
+<img src="CRM_analysis/images/rfm_distribution_hist.png" width="620">
+
 Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to rank high-value cohorts.  
 **Results:** CLTV-ranked top segments and personas for targeted CRM actions  
 **Tools:** Python (Pandas, Scikit-learn), **lifetimes** (BG/NBD, Gamma-Gamma)  
@@ -24,6 +28,8 @@ Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to 
 ---
 
 ### 📦 [Grocery Sales Demand Forecasting](./grocery-sales-forecast)
+<img src="grocery-sales-forecast/images/pred_vs_actual_line.png" width="620">
+
 Forecasted weekly demand to inform inventory and staffing. Compared linear vs. tree-based regressors.  
 **Results (test):** **MAE ≈ 95k–101k**, **R² ≈ 0.16–0.23** (baseline; feature/seasonality expansion planned)  
 **Tools:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn)  
@@ -32,6 +38,8 @@ Forecasted weekly demand to inform inventory and staffing. Compared linear vs. t
 ---
 
 ### 🏭 [Quality Control Analysis (Wine)](./quality-control-analysis)
+<img src="quality-control-analysis/images/feature_importance.png" width="620">
+
 Identified drivers of ≥7 quality rating and quantified directional effects via interpretable regression.  
 **Results:** **MAE(train/test)=0.57/0.58**, **R²(train/test)=0.28/0.27**; alcohol(+), volatile acidity(–), density(–)  
 **Tools:** Python (Pandas, Scikit-learn, Seaborn, Matplotlib)  
@@ -40,6 +48,8 @@ Identified drivers of ≥7 quality rating and quantified directional effects via
 ---
 
 ### 💳 [Banking Subscription Prediction & Marketing Analysis](./banking-subscription-prediction)
+<img src="banking-subscription-prediction/images/feature_importance.png" width="620">
+
 Predicted term deposit subscription likelihood with Random Forest and hyperparameter tuning.  
 **Results:** **Accuracy=0.6921** (GridSearch best); insights on duration/economic indicators  
 **Tools:** Python (Pandas, Scikit-learn, Seaborn, Matplotlib)  
@@ -48,6 +58,8 @@ Predicted term deposit subscription likelihood with Random Forest and hyperparam
 ---
 
 ### 🏬 [Card Transaction Analysis & Market Entry Fit](./card-transaction-analysis)
+<img src="card-transaction-analysis/images/yoy_sales_share_core.png" width="620">
+
 Profiled consumer behavior to assess district entry viability (core categories, weekend/holiday, installments, YoY shifts).  
 **Results:** Weekend **30.9%**, Holiday **~4.4%**, Installments **~0.5%**; leadership mix shift (2017→2018)  
 **Tools:** Python (Pandas, Seaborn, Matplotlib)  
