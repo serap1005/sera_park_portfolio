@@ -61,16 +61,3 @@ Grocery retailers face volatile weekly demand, causing stockouts, overstaffing, 
 **ML**: Linear Regression, RandomForestRegressor  
 **Metrics**: MAE, R²
 
----
-
-## **How to Run**
-```bash
-# 1) clone
-git clone https://github.com/<your-username>/grocery-sales-forecast.git
-cd grocery-sales-forecast
-
-# 2) open the notebook (ensure Python 3.10+)
-# pip install -r requirements.txt  # (optional: if you add one)
-
-# 3) export figures inside notebook cells
-# e.g., save_fig("weekly_sales_trend")
