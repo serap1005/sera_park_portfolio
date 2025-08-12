@@ -17,7 +17,7 @@ Built a Random Forest model to detect fraudulent transactions using EDA, imbalan
 
 ---
 
-### 🛍️ [Customer Segmentation & CLTV Prediction](./crm-analysis)
+### 🛍️ [Customer Segmentation & CLTV Prediction](./CRM_analysis)
 <img src="CRM_analysis/images/rfm_distribution_hist.png" width="620">
 
 Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to rank high-value cohorts.  
