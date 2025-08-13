@@ -27,7 +27,7 @@ Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to 
 
 ---
 
-### 🧺 [Market Basket Analysis](./association-analysis)
+### 🧺 [Market Basket Analysis (Association Rules)](./association-analysis)
 <img src="association-analysis/images/rules_network.png" width="620">
 
 Discovered high-value co-purchase patterns from 7,500+ retail transactions using **Apriori** algorithm and association rule mining.  
@@ -82,7 +82,7 @@ Profiled consumer behavior to assess district entry viability (core categories, 
 > **Focus:** Decision-oriented EDA, category share tracking, entry strategy
 
 ---
-### 📊 [Customer Segmentation](./RFM-customer-segmentation)
+### 📊 [Customer Segmentation (RFM Analysis)](./RFM-customer-segmentation)
 <img src="RFM-customer-segmentation/images/rfm_grade_mix.png" width="620">
 
 Segmented customers using **RFM metrics** to monitor high-value, at-risk, new, and low-value segments over time.  
