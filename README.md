@@ -98,7 +98,6 @@ Visualized **monthly distribution of RFM grades** to support data-driven marketi
 ---
 
 ### 🎮 [Abusive User Detection (Rule-based)](./game-abusive-user-analysis)
-<img src="game-abusive-user-analysis/images/flagged_by_rule.png" width="620">
 <img src="game-abusive-user-analysis/images/distance_vs_headshot_thresholds.png" width="620">
 
 Flagged suspicious players using **statistical thresholds** on gameplay signals  
