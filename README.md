@@ -28,12 +28,18 @@ Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to 
 ---
 
 ### 🧺 Market Basket Analysis (Association Rules)
-<img src="association-analysis/images/top_items.png" width="620">
+<img src="association-analysis/images/rules_network.png" width="620">
 
-Mined frequent itemsets and high-lift rules (Apriori) to drive **bundles and in-store placement** decisions.  
-**Results:** (mineral water)→(spaghetti) lift~1.44; (mineral water)→(chocolate) lift~1.35  
-**Tools:** Python (Pandas, mlxtend)
-> **Focus:** Cross-sell patterns, rule-based recommendations, merchandising insights
+Discovered high-value co-purchase patterns from 7,500+ retail transactions using **Apriori** algorithm and association rule mining.  
+Identified **high-lift product pairs** to inform targeted promotions, bundle design, and strategic in-store placement.
+
+**Results:**  
+- (mineral water) → (spaghetti) — **Lift 1.44**, Support 0.060, Confidence 0.251  
+- (spaghetti) → (mineral water) — **Lift 1.44**, Support 0.060, Confidence 0.343  
+- (mineral water) → (chocolate) — **Lift 1.35**, Support 0.053, Confidence 0.221  
+
+**Tools:** Python (Pandas, mlxtend, Matplotlib, NetworkX)  
+> **Focus:** Translating unsupervised learning insights into **actionable merchandising strategies** that can drive basket size growth and improve product placement efficiency.
 
 ---
 
