@@ -8,6 +8,7 @@ Predict nightly **price** for NYC Airbnb listings and identify key **value drive
 
 ## **Data & Method**
 - 48,895 listings × 16 features (NYC Airbnb)
+- Data Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 - Cleaning: `reviews_per_month` NA → 0
 - Encoding: `neighbourhood_group`, `neighbourhood`, `room_type` (baseline: LabelEncoder; next: One-Hot)
 - Modeling: `RandomForestRegressor` (+ basic Bayesian optimization)
