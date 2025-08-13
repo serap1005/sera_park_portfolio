@@ -82,6 +82,19 @@ Profiled consumer behavior to assess district entry viability (core categories, 
 > **Focus:** Decision-oriented EDA, category share tracking, entry strategy
 
 ---
+### 📊 Customer Segmentation (RFM Analysis)
+<img src="RFM-customer-segmentation/images/rfm_grade_mix.png" width="620">
+
+Segmented customers using **RFM metrics** to monitor high-value, at-risk, new, and low-value segments over time.  
+Visualized **monthly distribution of RFM grades** to support data-driven marketing and retention planning.
+**Results:**  
+- High-value: Frequent, recent, high-spend → Loyalty focus  
+- At-risk: Long time since last purchase → Re-engagement  
+- New: Onboarding & repeat purchase  
+- Low-value: Minimal spend → Limited marketing
+**Tools:** Python (Pandas, Matplotlib, Seaborn)
+> **Focus:** Translating RFM analysis into **actionable marketing strategies** with clear segment tracking.
+---
 
 ## 📫 Contact
 📧 sera.park.2026@anderson.ucla.edu  
