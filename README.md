@@ -27,6 +27,16 @@ Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to 
 
 ---
 
+### 🧺 Market Basket Analysis (Association Rules)
+<img src="association-analysis/images/top_items.png" width="620">
+
+Mined frequent itemsets and high-lift rules (Apriori) to drive **bundles and in-store placement** decisions.  
+**Results:** (mineral water)→(spaghetti) lift~1.44; (mineral water)→(chocolate) lift~1.35  
+**Tools:** Python (Pandas, mlxtend)
+> **Focus:** Cross-sell patterns, rule-based recommendations, merchandising insights
+
+---
+
 ### 📦 [Grocery Sales Demand Forecasting](./grocery-sales-forecast)
 <img src="grocery-sales-forecast/images/pred_vs_actual_line.png" width="620">
 
