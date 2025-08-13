@@ -17,6 +17,7 @@ Built a Random Forest model to detect fraudulent transactions using EDA, imbalan
 
 ---
 
+
 ### 🛍️ [Customer Segmentation & CLTV Prediction](./CRM_analysis)
 <img src="CRM_analysis/images/rfm_distribution_hist.png" width="620">
 
@@ -95,6 +96,19 @@ Visualized **monthly distribution of RFM grades** to support data-driven marketi
 **Tools:** Python (Pandas, Matplotlib, Seaborn)
 > **Focus:** Translating RFM analysis into **actionable marketing strategies** with clear segment tracking.
 ---
+
+### 🎮 [Abusive User Detection (Rule-based)](./game-abusive-user-analysis)
+<img src="game-abusive-user-analysis/images/flagged_by_rule.png" width="620">
+<img src="game-abusive-user-analysis/images/distance_vs_headshot_thresholds.png" width="620">
+
+Flagged suspicious players using **statistical thresholds** on gameplay signals  
+(e.g., low movement + high headshot rate, extreme kills with low heals).  
+Summarized counts per rule and visualized key thresholds.
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+> **Focus:** Translating heuristic thresholds (percentiles, mean±3σ) into a clear, auditable pipeline for abuse detection.
+
+---
+
 ### 🏙️ [Airbnb Price Modeling (NYC)](./airbnb-value-analysis)
 <img src="airbnb-value-analysis/images/price_hexbin.png" width="620">
 
