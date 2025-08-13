@@ -82,7 +82,7 @@ Profiled consumer behavior to assess district entry viability (core categories, 
 > **Focus:** Decision-oriented EDA, category share tracking, entry strategy
 
 ---
-### 📊 [Customer Segmentation](./RFM-customer-segmentation-analysis)
+### 📊 [Customer Segmentation](./RFM-customer-segmentation)
 <img src="RFM-customer-segmentation/images/rfm_grade_mix.png" width="620">
 
 Segmented customers using **RFM metrics** to monitor high-value, at-risk, new, and low-value segments over time.  
