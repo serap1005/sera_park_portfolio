@@ -95,6 +95,15 @@ Visualized **monthly distribution of RFM grades** to support data-driven marketi
 **Tools:** Python (Pandas, Matplotlib, Seaborn)
 > **Focus:** Translating RFM analysis into **actionable marketing strategies** with clear segment tracking.
 ---
+### 🏙️ Airbnb Price Modeling (NYC)
+<img src="airbnb-value-analysis/images/price_hexbin.png" width="620">
+
+Built a **Random Forest regression** model to predict nightly prices and analyzed **value drivers**.  
+After basic tuning, achieved **R²(test) ~ 0.16** (MAE ~ 67; RMSE ~ 176).  
+Next steps include adding **geo-features** and **one-hot encoding** to improve accuracy.
+**Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+> **Focus:** Turning model diagnostics into concrete feature-engineering plans (geo & encoding) to lift prediction quality.
+---
 
 ## 📫 Contact
 📧 sera.park.2026@anderson.ucla.edu  
