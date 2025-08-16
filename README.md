@@ -128,6 +128,14 @@ We use the **Precision–Recall curve** and **cumulative gain** to guide thresho
 **Tools:** Python (Pandas, scikit-learn, LightGBM, Matplotlib)
 > **Focus:** Turning model diagnostics into **thresholding & investigator triage** with imbalance-aware evaluation.
 ---
+### 🏨 [Hotel Booking Demand](./hotel-booking-demand)
+<img src="hotel-booking-demand/images/feature_importance.png" width="620">
+
+Built a Random Forest model to predict hotel reservation cancellations and no-shows using booking behavior features.  
+**Results (test):** Accuracy **0.78**, Precision(1) **0.96**, Recall(1) **0.44**, F1(1) **0.60**  
+**Tools:** Python (Pandas, Scikit-learn, Seaborn, Matplotlib)  
+> **Focus:** Booking trend discovery, risk segmentation, predictive modeling
+---
 
 ## 📫 Contact
 📧 sera.park.2026@anderson.ucla.edu  
