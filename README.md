@@ -117,6 +117,17 @@ Next steps include adding **geo-features** and **one-hot encoding** to improve a
 **Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 > **Focus:** Turning model diagnostics into concrete feature-engineering plans (geo & encoding) to lift prediction quality.
 ---
+### 🚗 Car Insurance Fraud Prediction
+<img src="car-insurance-fraud/images/pr_curve.png" width="620">
+
+Built a LightGBM classifier to flag **fraudulent insurance claims** under class imbalance.  
+From the notebook: **AUC(train)=0.7548**, **AUC(test)=0.7145**;  
+on the test set, fraud recall is **0.17** at the reported operating point (accuracy **0.83**, macro F1 **0.57**).  
+We use the **Precision–Recall curve** and **cumulative gain** to guide thresholding and top-k triage decisions.
+
+**Tools:** Python (Pandas, scikit-learn, LightGBM, Matplotlib)
+> **Focus:** Turning model diagnostics into **thresholding & investigator triage** with imbalance-aware evaluation.
+---
 
 ## 📫 Contact
 📧 sera.park.2026@anderson.ucla.edu  
