@@ -27,7 +27,7 @@ Detect fraudulent car insurance claims using supervised learning under **class i
   - Class 1 (fraud): Precision **0.40**, Recall **0.17**, F1 **0.24** (support **844**)  
   - **Accuracy** **0.83**, **Macro F1** **0.57**
 
-> *Note.* The train classification report in the notebook shows:  
+> *Note.* The train classification report shows:  
 > class 0 (P=0.87, R=0.96, F1=0.91, support=10613), class 1 (P=0.48, R=0.20, F1=0.28, support=1968), accuracy=0.84, macro F1=0.59.
 
 ---
@@ -35,7 +35,7 @@ Detect fraudulent car insurance claims using supervised learning under **class i
 ## **Threshold Selection**
 <img src="images/pr_curve.png" width="620">
 
-- We select the operating point from the **Precision–Recall curve** (see figure) rather than a fixed default threshold, to raise fraud **recall** at a manageable precision.
+- Selected the operating point from the **Precision–Recall curve** (see figure) rather than a fixed default threshold, to raise fraud **recall** at a manageable precision.
 
 ---
 
