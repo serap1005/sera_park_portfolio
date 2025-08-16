@@ -56,6 +56,3 @@ To address this, the hotel aims to build a system that forecasts **high-risk res
 - By flagging reservations with high cancellation risk, hotels can implement **overbooking strategies** or proactive follow-ups to improve occupancy rates.
 
 ---
-
-## **📁 Repository Structure**
-
