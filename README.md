@@ -117,7 +117,7 @@ Next steps include adding **geo-features** and **one-hot encoding** to improve a
 **Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 > **Focus:** Turning model diagnostics into concrete feature-engineering plans (geo & encoding) to lift prediction quality.
 ---
-### 🚗 Car Insurance Fraud Prediction
+### 🚗 [Car Insurance Fraud Prediction](./car-insurance-fraud)
 <img src="car-insurance-fraud/images/pr_curve.png" width="620">
 
 Built a LightGBM classifier to flag **fraudulent insurance claims** under class imbalance.  
