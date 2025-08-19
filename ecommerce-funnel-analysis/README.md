@@ -1,8 +1,8 @@
 # Cosmetics E-Commerce Funnel Analysis
 
-## **Goal**
-Understand user drop-off behavior across **View → Cart → Purchase** stages on a cosmetics e-commerce platform.
-Deliver **data-driven funnel insights** and actionable recommendations to improve conversion rates.
+### **Goal**
+#### Understand user drop-off behavior across **View → Cart → Purchase** stages on a cosmetics e-commerce platform.
+#### Deliver **data-driven funnel insights** and actionable recommendations to improve conversion rates.
 ---
 
 ## **Data & Method**
