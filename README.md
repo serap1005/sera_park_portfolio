@@ -27,6 +27,13 @@ Segmented customers (KMeans=5) and estimated CLTV using BG/NBD + Gamma-Gamma to 
 > **Focus:** RFM/behavioral clustering, lifetime value modeling, campaign targeting
 
 ---
+### 🛍️ [E-Commerce Funnel Analysis](./ecommerce-funnel-analysis)
+Analyzed a cosmetics e-commerce funnel (View → Cart → Purchase) to measure drop-off and identify friction points using session-level event data.
+**Results**: View→Cart 16.4%, Cart→Purchase 16.7%, View→Purchase 2.7% conversion rates
+**Tools**: Python (Pandas, Matplotlib), Tableau
+> **Focus**: Funnel optimization, session-based user journey mapping, behavioral conversion insights
+
+---
 
 ### 🧺 [Market Basket Analysis (Association Rules)](./association-analysis)
 <img src="association-analysis/images/rules_network.png" width="620">
