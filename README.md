@@ -34,6 +34,15 @@ Analyzed a cosmetics e-commerce funnel (View → Cart → Purchase) to measure d
 > **Focus**: Funnel optimization, session-based user journey mapping, behavioral conversion insights
 
 ---
+### 📊 [E-Commerce Cohort & Retention Analysis](./ecommerce-cohort-analysis)
+<img src="ecommerce_cohort_analysis_g/images/cohort_retention_heatmap.png" width="620">
+
+Analyzed e-commerce customer retention using cohort analysis and churn prediction modeling.  
+**Results**: Retention dropped 50% within 2 months; Random Forest achieved 92% accuracy (ROC-AUC = 0.986) for next-month repurchase prediction.  
+**Tools**: Python (Pandas, Seaborn, Scikit-learn)  
+> **Focus**: Retention analytics, cohort-based behavior tracking, predictive churn modeling
+
+---
 
 ### 🧺 [Market Basket Analysis (Association Rules)](./association-analysis)
 <img src="association-analysis/images/rules_network.png" width="620">
