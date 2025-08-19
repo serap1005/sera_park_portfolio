@@ -43,6 +43,16 @@ Analyzed e-commerce customer retention using cohort analysis and churn predictio
 > **Focus**: Retention analytics, cohort-based behavior tracking, predictive churn modeling
 
 ---
+### 📊 [Marketing A/B Test Analysis](./ab-test-analysis)
+<img src="ab-test-analysis/images/sales_distribution_promo_group.png" width="48%"> <img src="ab-test-analysis/images/avg_sales_by_promotion_marketsize.png" width="48%">
+<img src="ab-test-analysis/images/top_10_feature_importances.png" width="60%">
+
+Analyzed promotional campaign effectiveness using **A/B testing (ANOVA, Tukey HSD)** and **Random Forest modeling**.  
+**Results:** Promotion 2 underperformed; Promotions 1 & 3 yielded similar sales, with MarketSize and LocationID as strongest predictors.  
+**Tools:** Python (Pandas, Seaborn, Scikit-learn, Statsmodels, Matplotlib)  
+> **Focus:** Promotion impact validation, market-driven sales modeling, strategic allocation recommendations
+
+---
 
 ### 🧺 [Market Basket Analysis (Association Rules)](./association-analysis)
 <img src="association-analysis/images/rules_network.png" width="620">
