@@ -35,7 +35,7 @@ Analyzed a cosmetics e-commerce funnel (View → Cart → Purchase) to measure d
 
 ---
 ### 📊 [E-Commerce Cohort & Retention Analysis](./ecommerce-cohort-analysis)
-<img src="ecommerce_cohort_analysis_g/images/cohort_retention_heatmap.png" width="620">
+<img src="ecommerce-cohort-analysis/images/cohort_retention_heatmap.png" width="620">
 
 Analyzed e-commerce customer retention using cohort analysis and churn prediction modeling.  
 **Results**: Retention dropped 50% within 2 months; Random Forest achieved 92% accuracy (ROC-AUC = 0.986) for next-month repurchase prediction.  
