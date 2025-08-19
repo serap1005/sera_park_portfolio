@@ -44,8 +44,7 @@ Analyzed e-commerce customer retention using cohort analysis and churn predictio
 
 ---
 ### 📊 [Marketing A/B Test Analysis](./ab-test-analysis)
-<img src="ab-test-analysis/images/sales_distribution_promo_group.png" width="48%"> <img src="ab-test-analysis/images/avg_sales_by_promotion_marketsize.png" width="48%">
-<img src="ab-test-analysis/images/top_10_feature_importances.png" width="60%">
+<img src="ab-test-analysis/images/sales_distribution_promo_group.png" width="48%"> 
 
 Analyzed promotional campaign effectiveness using **A/B testing (ANOVA, Tukey HSD)** and **Random Forest modeling**.  
 **Results:** Promotion 2 underperformed; Promotions 1 & 3 yielded similar sales, with MarketSize and LocationID as strongest predictors.  
