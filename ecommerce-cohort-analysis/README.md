@@ -42,7 +42,7 @@ The goal is to understand **when and why customers churn**, and to build a **mac
 <img src="images/top_vs_bottom_basketvalue.png" width="600">
 
 ### 5. Random Forest Feature Importance
-<img src="images/rf_feature_importances.png" width="600">
+<img src="images/feature_importances.png" width="600">
 
 ---
 
