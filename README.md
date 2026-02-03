@@ -1,6 +1,6 @@
 # **Sera Park's Data Analytics Portfolio**
 
-Welcome! I am **Sera Park**, an MSBA candidate at UCLA Anderson leveraging machine learning, statistical modeling, and data storytelling to solve real-world business problems.  
+Welcome! I am **Sera Park**.  
 This portfolio highlights case-based analytics projects spanning predictive modeling, segmentation, quality control, and market analysis.
 
 ---
